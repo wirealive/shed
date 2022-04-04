@@ -30,7 +30,7 @@
     "express": "^4.16.2",
     "http-auth": "x",
     "sequelize": "x",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "sqlite3": "x"
   }
 }
